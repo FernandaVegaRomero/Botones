@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Botones</string>
+    <string name="texto1">Bienvenidos</string>
+    <string name="btn1">Siguiente</string>
+    <string name="btn2">Siguiente</string>
+    <string name="titulo2">Segunda Pagina</string>
+    <string name="titulo3">Tercer Pagina</string>
+</resources>
